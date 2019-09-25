@@ -303,7 +303,9 @@ knitr::include_graphics("newcastle_brown.jpg") # source: https://picclick.co.uk/
 
 The 'mirror test', also sometimes referred to as mark test, has been argued to be a test of visual self-recognition. 
 
-In 2015, a study found evidence that 3 species were able to pass the test: _Myrmica sabuleti, Myrmica rubra, and Myrmica ruginodis_. They are species of what animal? 
+In 2015, a study found evidence that 3 species were able to pass the test: _Myrmica sabuleti, Myrmica rubra, and Myrmica ruginodis_. 
+
+They are species of what animal? 
 
 ```{r, out.width = "500px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/noqUFXGNuZDLG/giphy.gif") # source: giphy
@@ -377,7 +379,7 @@ knitr::include_graphics("morph2.jpg") # source: @morphy_me, https://www.insider.
 ---
 ## Question 25: IT and related problems.
 
-What is the extension you have to dial to reach the Northumbria IT helpline (on a phone at campus). 4 digits needed.
+What is the extension you have to dial to reach the Northumbria IT helpline (on a phone at campus)? 4 digits needed.
 
 ```{r, out.width = "450px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/cpY0YQRx9KfXW/giphy.gif") # source: giphy
